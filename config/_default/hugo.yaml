@@ -1,4 +1,4 @@
-baseURL: https://about-hugo.github.com/theme-cards-tryout
+baseURL: /
 title: HB Cards Theme Tryout
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
