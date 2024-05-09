@@ -2,4 +2,4 @@
 # googleAnalytics: 'G-XXXXXXXXXX' # Google Analytics, please make sure you've imported the Google Analytics module.
 
 # disqusShortname: XXXXXX # The Disqus shortname.
-baseURL: https://about-hugo.github.com/theme-cards-tryout
+baseURL: https://about-hugo.github.io/theme-cards-tryout
