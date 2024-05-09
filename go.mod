@@ -2,8 +2,6 @@ module github.com/about-hugo/theme-cards-tryout
 
 go 1.19
 
-replace github.com/hbstack/theme-cards => ../
-
 require (
 	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.10 // indirect
