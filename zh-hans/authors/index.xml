@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>作者 on HB 卡片主题模板</title>
-    <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/authors/</link>
+    <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/authors/</link>
     <description>Recent content in 作者 on HB 卡片主题模板</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
     <lastBuildDate>Sat, 02 Dec 2023 11:47:31 +0800</lastBuildDate>
-    <atom:link href="https://about-hugo.github.com/theme-cards-tryout/zh-hans/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://about-hugo.github.io/theme-cards-tryout/zh-hans/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HB Framework Authors</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/authors/hb/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/authors/hb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/authors/hb/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/authors/hb/</guid>
       <description></description>
     </item>
     <item>
       <title>HugoMods Authors</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/authors/hugomods/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/authors/hugomods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/authors/hugomods/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/authors/hugomods/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>分类 on HB 卡片主题模板</title>
-    <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/categories/</link>
+    <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/categories/</link>
     <description>Recent content in 分类 on HB 卡片主题模板</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 26 Nov 2023 16:36:24 +0800</lastBuildDate>
-    <atom:link href="https://about-hugo.github.com/theme-cards-tryout/zh-hans/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://about-hugo.github.io/theme-cards-tryout/zh-hans/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>内容</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/categories/%E5%86%85%E5%AE%B9/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/categories/%E5%86%85%E5%AE%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/categories/%E5%86%85%E5%AE%B9/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/categories/%E5%86%85%E5%AE%B9/</guid>
       <description></description>
     </item>
   </channel>

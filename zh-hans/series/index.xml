@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>专栏 on HB 卡片主题模板</title>
-    <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/</link>
+    <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/</link>
     <description>Recent content in 专栏 on HB 卡片主题模板</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
     <lastBuildDate>Sat, 02 Dec 2023 11:47:31 +0800</lastBuildDate>
-    <atom:link href="https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文档</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E6%96%87%E6%A1%A3/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E6%96%87%E6%A1%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E6%96%87%E6%A1%A3/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E6%96%87%E6%A1%A3/</guid>
       <description></description>
     </item>
     <item>
       <title>Docs</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/docs/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/docs/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>示例</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E7%A4%BA%E4%BE%8B/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E7%A4%BA%E4%BE%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E7%A4%BA%E4%BE%8B/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E7%A4%BA%E4%BE%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>发布</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E5%8F%91%E5%B8%83/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E5%8F%91%E5%B8%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E5%8F%91%E5%B8%83/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E5%8F%91%E5%B8%83/</guid>
       <description></description>
     </item>
     <item>
       <title>笔记</title>
-      <link>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E7%AC%94%E8%AE%B0/</link>
+      <link>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.com/theme-cards-tryout/zh-hans/series/%E7%AC%94%E8%AE%B0/</guid>
+      <guid>https://about-hugo.github.io/theme-cards-tryout/zh-hans/series/%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
   </channel>
