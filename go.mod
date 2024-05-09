@@ -1,4 +1,4 @@
-module github.com/hbstack/theme-cards/exampleSite
+module github.com/about-hugo/theme-cards-tryout
 
 go 1.19
 
