@@ -26,7 +26,7 @@ jobs:
       - name: Build
         run: |
           npm ci
-          hugo -e production
+          hugo -e production -b 'https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}'
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
